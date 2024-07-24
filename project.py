@@ -19,6 +19,7 @@ class FunctionPlotter:
         else:
             x_min,x_max = self.x_range
         
+        #Testing
         x = np.linspace(x_min,x_max,self.num_points)
         y = self.function(x)
 
