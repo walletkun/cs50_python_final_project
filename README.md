@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FunctionPlotter - Visualize Mathematical Functions
 
 ## Video Demo
