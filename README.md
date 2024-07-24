@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FunctionPlotter - Visualize Mathematical Functions
 
 ## Video Demo
@@ -50,3 +51,7 @@ If you'd like to contribute to this project or report issues, please follow thes
 - The project was inspired by a passion for math and programming.
 - Special thanks to the Python community for their valuable contributions and open-source libraries.
 
+=======
+# cs50_python_final_project
+CS50 final project
+>>>>>>> origin/main
